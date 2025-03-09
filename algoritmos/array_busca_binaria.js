@@ -29,7 +29,7 @@ return -1; //retorna -1 se o valor não for encontrado
 
 //aplicação
 const arr = [2,3,5,7,9,11,13,15]; //array já ordenado
-const valor = 5;
+const valor = 7;
 
 const resultado = buscaBinaria(arr, valor);
 
